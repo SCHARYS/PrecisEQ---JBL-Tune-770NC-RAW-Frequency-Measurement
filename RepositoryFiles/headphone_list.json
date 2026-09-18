@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "jbltune770nc",
+    "type": 2,
+    "brandName": [
+      "JBL"
+    ],
+    "modelName": [
+      "Tune 770NC"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
+  }
+]
